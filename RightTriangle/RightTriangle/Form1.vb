@@ -20,7 +20,7 @@ Public Class Form1
         Dim c As Double
         c = Math.Sqrt(a ^ 2 + b ^ 2)
 
-        Return "hello"
+        Return c
     End Function
 
 End Class
